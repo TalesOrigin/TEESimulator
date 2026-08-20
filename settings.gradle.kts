@@ -21,3 +21,6 @@ rootProject.name = "TEESimulator"
 include(":stub")
 
 include(":app")
+
+// Embeddable attestation library for Android APKs (no root required)
+include(":embeddable")

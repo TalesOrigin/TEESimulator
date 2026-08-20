@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  TEESimulator Embedded — attestation library for Android APKs.
+  No special permissions required. Bundles the Rust KeyMint TA for
+  keybox-signed attestation certificate generation.
+-->
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+    <application />
+</manifest>

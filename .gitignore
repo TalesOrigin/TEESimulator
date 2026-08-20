@@ -10,4 +10,5 @@ compile_commands.json
 .gradle/
 /app/build/
 /stub/build/
+/embeddable/build/
 local.properties
